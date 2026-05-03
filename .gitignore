@@ -1,1 +1,7 @@
 .env
+node_modules/
+target/
+dist/
+*.class
+*.jar
+.DS_Store
